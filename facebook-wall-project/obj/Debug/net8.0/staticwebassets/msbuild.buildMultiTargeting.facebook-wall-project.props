@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\facebook-wall-project.props" />
+</Project>
